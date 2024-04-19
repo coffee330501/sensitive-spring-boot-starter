@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  io.github.coffee330501.SensitiveAutoConfiguration
+  io.github.coffee330501.sensitive.SensitiveAutoConfiguration
